@@ -6,7 +6,8 @@ En términos más técnicos, una base de datos consta de una estructura definida
 
 Las bases de datos suelen estar compuestas por tablas que contienen filas y columnas. Cada fila representa una entrada individual de datos, y cada columna representa un atributo específico o campo de datos. Estos datos se organizan según un modelo de datos específico, como el modelo relacional, el modelo de documentos, el modelo de grafos, entre otros.
 
- 
+
+
 
 Fuentes de datos
 
