@@ -1,0 +1,27 @@
+# ¿Qué son las bases de datos?
+
+Son sistemas organizados de almacenamiento de datos que permiten almacenar, organizar, recuperar y manipular información de manera eficiente. Están diseñadas para gestionar grandes volúmenes de datos de manera estructurada y proporcionar acceso rápido y seguro a la información almacenada.
+
+En términos más técnicos, una base de datos consta de una estructura definida que almacena datos de manera que puedan ser fácilmente recuperados, modificados y gestionados. Estos datos pueden variar en complejidad y pueden incluir desde simples listas de nombres hasta registros financieros detallados, registros de transacciones, imágenes, vídeos y mucho más.
+
+Las bases de datos suelen estar compuestas por tablas que contienen filas y columnas. Cada fila representa una entrada individual de datos, y cada columna representa un atributo específico o campo de datos. Estos datos se organizan según un modelo de datos específico, como el modelo relacional, el modelo de documentos, el modelo de grafos, entre otros.
+
+ 
+
+Fuentes de datos
+
+• Analógicas: se refieren a la información que se encuentra en formato físico o continuo. Antes de la revolución digital, los datos analógicos dominaban el panorama, y se almacenaban en formas como documentos impresos, archivos en papel, fotografías físicas y grabaciones de audio o video en cintas magnéticas. Estos datos tienen una presencia tangible y, a menudo, requieren manipulación manual para su análisis.
+
+• Digitales: son aquellos que existen en forma digitalizada, es decir, convertidos en ceros y unos que las computadoras pueden entender y procesar. Estos datos abarcan una amplia variedad de formas, desde documentos de texto y hojas de cálculo hasta imágenes, videos, archivos de audio, bases de datos estructuradas y mucho más.
+
+ 
+
+Usos más frecuentes
+
+• Almacenamiento masivo: Las empresas recopilan grandes volúmenes de datos de diversas fuentes, desde registros físicos hasta registros de transacciones, con el objetivo de analizar estos datos para obtener información útil y tomar decisiones informadas.
+
+• La web: es una fuente inagotable de datos que se utiliza en una variedad de aplicaciones. A través de APIs (interfaces de programación de aplicaciones), las aplicaciones de desarrollo web pueden acceder a una amplia gama de datos, desde información sobre el clima hasta datos financieros en tiempo real.
+
+• Redes sociales: Permiten medir métricas de engagement, comprender tendencias de mercado y entender mejor el comportamiento del consumidor. El análisis de datos procedentes de redes sociales puede proporcionar información valiosa sobre las preferencias de los clientes, la eficacia de las estrategias de marketing y las oportunidades de mejora en productos y servicios.
+
+• Análisis de datos: abarca una amplia gama de técnicas y herramientas utilizadas para examinar, limpiar y transformar datos con el objetivo de obtener información útil y tomar decisiones informadas. Esta práctica se aplica en diversos campos, desde la investigación científica hasta la toma de decisiones empresariales.
