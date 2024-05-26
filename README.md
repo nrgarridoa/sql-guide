@@ -5,7 +5,7 @@ No olvides darle una 🌟 al proyecto para que siga creciendo.
 
 
 ## Compiladores en línea
-- [**SQLite**](https://sqliteonline.com/){:target="_blank"}
+- [**SQLite**](https://sqliteonline.com/)
 
 
 
